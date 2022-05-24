@@ -1,0 +1,25 @@
+body {
+  background-color: navy;
+  color: white;
+  text-align: center;
+  background-image: url("https://foxi.ro/upload/articles/56/big-horoscop--1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+}
+
+h3 {
+  color: red;
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 3rem;
+  color: yellow;
+}
